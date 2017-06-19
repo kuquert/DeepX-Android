@@ -1,0 +1,82 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Display 1 -->
+    <style name="textD1">
+        <item name="fontPath">fonts/Montserrat-Bold.ttf</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textSize">48sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <!-- Display 2 -->
+    <style name="textD2" parent="textD1">
+        <item name="android:textSize">36sp</item>
+    </style>
+
+    <!-- Headline 1 -->
+    <style name="textH1">
+        <item name="fontPath">fonts/Montserrat-Bold.ttf</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <!-- Paragraph 1 -->
+    <style name="textP1">
+        <item name="fontPath">fonts/SourceSansPro-Light.otf</item>
+        <item name="android:textColor">@color/gray1</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <!-- Paragraph 2 -->
+    <style name="textP2" parent="textP1">
+        <item name="fontPath">fonts/SourceSansPro-Semibold.otf</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <!-- Paragraph 3 -->
+    <style name="textP3" parent="textP1">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <!-- Paragraph 4 -->
+    <style name="textP4" parent="textP1">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <!-- Paragraph 5 -->
+    <style name="textP5" parent="textP1">
+        <item name="fontPath">fonts/SourceSansPro-Regular.otf</item>
+        <item name="android:textColor">@color/gray2</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <!-- Paragraph 6 -->
+    <style name="textP6" parent="textP1">
+        <item name="fontPath">fonts/SourceSansPro-Regular.otf</item>
+        <item name="android:textColor">@color/gray2</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <!-- Uppercase 1 -->
+    <style name="textU1">
+        <item name="fontPath">fonts/SourceSansPro-Semibold.otf</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <!-- Uppercase 2-->
+    <style name="textU2" parent="textU1">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>

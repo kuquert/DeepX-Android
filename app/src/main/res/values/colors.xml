@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Shades-->
+    <color name="colorBlack">#2E2D33</color>
+    <color name="gray1">#676873</color>
+    <color name="gray2">#AEACBF</color>
+    <color name="gray3">#EBEBF2</color>
+    <color name="gray4">#F5F5F9</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteAlphaLow">#99ffffff</color>
+    <color name="colorWhiteAlphaMedium">#a5ffffff</color>
+    <color name="colorWhiteAlphaHigh">#ccffffff</color>
+    <color name="light1">#99FFFFFF</color>
+    <color name="light2">#4D676873</color>
+    <color name="light3">#33FFFFFF</color>
+    <color name="colorDivider">#EDEDED</color>
+
+
+    <!-- Status colors-->
+    <color name="colorPositive">@color/green1</color>
+    <color name="colorNegative">#E84423</color>
+    <color name="colorDisabled">#C5C7DB</color>
+    <color name="colorError">@color/yellow2</color>
+
+    <!--Pink-->
+    <color name="pink1">#EE2E5D</color>
+    <color name="pink2">#BB193A</color>
+
+    <!--Yellow-->
+    <color name="yellow1">#FFD000</color>
+    <color name="yellow2">#FF9001</color>
+
+    <!--Green-->
+    <color name="green1">#05F379</color>
+    <color name="green2">#00B563</color>
+
+    <!--Blue-->
+    <color name="blue1">#0581FF</color>
+    <color name="blue2">#006AD6</color>
+
+    <!--Purple-->
+    <color name="purple1">#6960DA</color>
+    <color name="purple2">#473ABB</color>
+
+
+</resources>
